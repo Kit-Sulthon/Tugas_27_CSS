@@ -1,0 +1,2 @@
+Silahkan Download file Bootstrap pada website resminya, lalu buatlah sebuah protect dengan nama Tugas 27
+Silahkan buat halaman web dengan menggunakan template css bootsrap yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini :
